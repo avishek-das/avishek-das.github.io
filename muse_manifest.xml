@@ -1,12 +1,18 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1515441850218">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1515447180656">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4080976637" ref="fab-academy-2017:about:projects:contact:index"/>
-    <file name="fab-academy-2017.css" crc="534989625" ref="fab-academy-2017"/>
-    <file name="about.css" crc="534989625" ref="about"/>
-    <file name="projects.css" crc="534989625" ref="projects"/>
-    <file name="contact.css" crc="534989625" ref="contact"/>
-    <file name="index.css" crc="4223790937" ref="index"/>
+    <file name="master_a-master.css" crc="3993238099" ref="projects:fab-academy-2017:index:about:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="17496652" ref="projects:fab-academy-2017:index:about:contact"/>
+    <file name="projects.css" crc="433294502" ref="projects"/>
+    <file name="nomq_projects.css" crc="200841839" ref="projects"/>
+    <file name="fab-academy-2017.css" crc="3866755442" ref="fab-academy-2017"/>
+    <file name="nomq_fab-academy-2017.css" crc="461734396" ref="fab-academy-2017"/>
+    <file name="index.css" crc="3867492310" ref="index"/>
+    <file name="nomq_index.css" crc="13701210" ref="index"/>
+    <file name="about.css" crc="3866755442" ref="about"/>
+    <file name="nomq_about.css" crc="461734396" ref="about"/>
+    <file name="contact.css" crc="3866755442" ref="contact"/>
+    <file name="nomq_contact.css" crc="461734396" ref="contact"/>
   </folder>
   <folder name="fonts">
     <file name="perfograma.woff" crc="3892901981"/>
@@ -20,18 +26,20 @@
     <file name="museutils.js" crc="46400467" ref="index:projects:fab-academy-2017:about:contact"/>
     <file name="whatinput.js" crc="86476730" ref="index:projects:fab-academy-2017:about:contact"/>
     <file name="museconfig.js" crc="436936948" ref="index:projects:fab-academy-2017:about:contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:projects"/>
     <file name="jquery.watch.js" crc="4178585335" ref="index:projects:fab-academy-2017:about:contact"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index:projects:fab-academy-2017:about:contact"/>
     <file name="require.js" crc="85721165" ref="index:projects:fab-academy-2017:about:contact"/>
   </folder>
   <folder name="images">
-    <file name="banner_web2.jpg" crc="83851996" ref="index">
+    <file name="banner_web.jpg" crc="83851996" ref="index:projects">
       <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="399503612" seo="true" mt="1515441830020" redirect="true"/>
-  <file name="projects.html" crc="93187474" seo="true" mt="1515441830020" redirect="true"/>
-  <file name="fab-academy-2017.html" crc="162686277" seo="true" mt="1515441830020" redirect="true"/>
-  <file name="about.html" crc="4260477376" seo="true" mt="1515441830020" redirect="true"/>
-  <file name="contact.html" crc="4204611029" seo="true" mt="1515441830020" redirect="true"/>
+  <file name="index.html" crc="232235298" seo="true" mt="1515446921179" redirect="true"/>
+  <file name="projects.html" crc="4136019316" seo="true" mt="1515446921180" redirect="true"/>
+  <file name="fab-academy-2017.html" crc="401837242" seo="true" mt="1515446865631" redirect="true"/>
+  <file name="about.html" crc="342135537" seo="true" mt="1515446865631" redirect="true"/>
+  <file name="contact.html" crc="4112507761" seo="true" mt="1515446865631" redirect="true"/>
 </manifest>
