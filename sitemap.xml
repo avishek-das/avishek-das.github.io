@@ -5,29 +5,44 @@
     <lastmod>2018-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://avishek-das.github.io/projects.html</loc>
     <lastmod>2018-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://avishek-das.github.io/fab-academy-2017.html</loc>
     <lastmod>2018-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://avishek-das.github.io/about.html</loc>
     <lastmod>2018-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://avishek-das.github.io/contact.html</loc>
     <lastmod>2018-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+    </image:image>
   </url>
 </urlset>
