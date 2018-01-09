@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1515506238150">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1515506457708">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4250951524" ref="projects:fab-academy-2017:index:about:contact"/>
+    <file name="master_a-master.css" crc="502761980" ref="projects:fab-academy-2017:index:about:contact"/>
     <file name="nomq_preview_master_a-master.css" crc="4264621769" ref="projects:fab-academy-2017:index:about:contact"/>
     <file name="projects.css" crc="3941904190" ref="projects"/>
     <file name="nomq_projects.css" crc="79484967" ref="projects"/>
     <file name="fab-academy-2017.css" crc="332487905" ref="fab-academy-2017"/>
     <file name="nomq_fab-academy-2017.css" crc="340027753" ref="fab-academy-2017"/>
-    <file name="index.css" crc="4046001147" ref="index"/>
+    <file name="index.css" crc="4116221843" ref="index"/>
     <file name="nomq_index.css" crc="42150100" ref="index"/>
     <file name="about.css" crc="332487905" ref="about"/>
     <file name="nomq_about.css" crc="340027753" ref="about"/>
@@ -70,7 +70,7 @@
     <file name="banner_web_march-u1631-fr.jpg" crc="335245898" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:projects:fab-academy-2017:about:contact"/>
   </folder>
-  <file name="index.html" crc="4167037154" seo="true" mt="1515505939659" redirect="true"/>
+  <file name="index.html" crc="484003713" seo="true" mt="1515506432441" redirect="true"/>
   <file name="projects.html" crc="4011849471" seo="true" mt="1515505132207" redirect="true"/>
   <file name="fab-academy-2017.html" crc="431407685" seo="true" mt="1515505132207" redirect="true"/>
   <file name="about.html" crc="379524953" seo="true" mt="1515505132207" redirect="true"/>
