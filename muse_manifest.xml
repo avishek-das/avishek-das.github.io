@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1517076151173">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1517082594209">
   <folder name="css">
     <file name="site_global.css" crc="3909356130"/>
-    <file name="master_a-master.css" crc="4157254118" ref="about:fab-academy-2017:contact:projects:index:utzonx2017"/>
-    <file name="about.css" crc="97675488" ref="about"/>
-    <file name="fab-academy-2017.css" crc="484291239" ref="fab-academy-2017"/>
-    <file name="contact.css" crc="3762567330" ref="contact"/>
-    <file name="projects.css" crc="289492923" ref="projects"/>
-    <file name="index.css" crc="4138363915" ref="index"/>
-    <file name="utzonx2017.css" crc="4253331676" ref="utzonx2017"/>
+    <file name="master_a-master.css" crc="3900101699" ref="about:contact:projects:index:utzonx2017:customisedbrick"/>
+    <file name="about.css" crc="4465097" ref="about"/>
+    <file name="contact.css" crc="4243838571" ref="contact"/>
+    <file name="projects.css" crc="456653235" ref="projects"/>
+    <file name="index.css" crc="448211095" ref="index"/>
+    <file name="utzonx2017.css" crc="529718114" ref="utzonx2017"/>
+    <file name="customisedbrick.css" crc="313094616" ref="customisedbrick"/>
   </folder>
   <folder name="fonts">
     <file name="helveticaworld-bold.woff" crc="93119350"/>
@@ -24,25 +24,26 @@
     <file name="rockwellstd-italic.svg" crc="4007232215"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
-    <file name="museutils.js" crc="46400467" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
-    <file name="whatinput.js" crc="86476730" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
-    <file name="museconfig.js" crc="436936948" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:about:contact:utzonx2017:customisedbrick"/>
+    <file name="museutils.js" crc="46400467" ref="index:projects:about:contact:utzonx2017:customisedbrick"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:about:contact:utzonx2017:customisedbrick"/>
+    <file name="museconfig.js" crc="436936948" ref="index:projects:about:contact:utzonx2017:customisedbrick"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:projects:utzonx2017"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
-    <file name="require.js" crc="85721165" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:projects:about:contact:utzonx2017:customisedbrick"/>
+    <file name="require.js" crc="85721165" ref="index:projects:about:contact:utzonx2017:customisedbrick"/>
   </folder>
   <folder name="images">
     <file name="avishek_das_computational_design_utzonx_web_banner.jpg" crc="4161603935" ref="index:projects">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="avishek-logo.svg" crc="4146534107" seo="true" ref="index:projects:fab-academy-2017:about:contact:utzonx2017">
-      <caption webpage="index" alt=""/>
-      <caption webpage="utzonx2017" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="projects" alt=""/>
+    <file name="avishek-logo.svg" crc="4146534107" seo="true" ref="index:projects:about:contact:utzonx2017:customisedbrick">
       <caption webpage="fab-academy-2017" alt=""/>
+      <caption webpage="customisedbrick" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="utzonx2017" alt=""/>
     </file>
     <file name="avishek logo_poster_.png" crc="486670582" ref="index"/>
     <file name="avishek_das_prolfile_photo.jpg" crc="317714537" seo="true" ref="about">
@@ -132,10 +133,10 @@
       <caption webpage="utzonx2017" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="255262654" seo="true" mt="1517075744134" redirect="true"/>
-  <file name="projects.html" crc="160549496" seo="true" mt="1517075744134" redirect="true"/>
-  <file name="fab-academy-2017.html" crc="4050864632" seo="true" mt="1517075744134" redirect="true"/>
-  <file name="about.html" crc="435621475" seo="true" mt="1517075744134" redirect="true"/>
-  <file name="contact.html" crc="3911552673" seo="true" mt="1517075744134" redirect="true"/>
-  <file name="utzonx2017.html" crc="9710634" seo="true" mt="1517075744134" redirect="true"/>
+  <file name="index.html" crc="4141978142" seo="true" mt="1517082562851" redirect="true"/>
+  <file name="projects.html" crc="364958009" seo="true" mt="1517082562851" redirect="true"/>
+  <file name="about.html" crc="3960484401" seo="true" mt="1517082562851" redirect="true"/>
+  <file name="contact.html" crc="3983108979" seo="true" mt="1517082562851" redirect="true"/>
+  <file name="utzonx2017.html" crc="3787293125" seo="true" mt="1517082562851" redirect="true"/>
+  <file name="customisedbrick.html" crc="3888318558" seo="true" mt="1517082562851" redirect="true"/>
 </manifest>
