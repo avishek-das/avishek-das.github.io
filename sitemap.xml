@@ -2,101 +2,137 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://avishek-das.github.io/index.html</loc>
-    <lastmod>2018-01-10</lastmod>
+    <lastmod>2018-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://avishek-das.github.io/projects.html</loc>
-    <lastmod>2018-01-10</lastmod>
+    <lastmod>2018-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://avishek-das.github.io/fab-academy-2017.html</loc>
-    <lastmod>2018-01-09</lastmod>
+    <lastmod>2018-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://avishek-das.github.io/about.html</loc>
-    <lastmod>2018-01-09</lastmod>
+    <lastmod>2018-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_prolfile_photo.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://avishek-das.github.io/contact.html</loc>
-    <lastmod>2018-01-10</lastmod>
+    <lastmod>2018-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://avishek-das.github.io/utzonx_2017.html</loc>
-    <lastmod>2018-01-10</lastmod>
+    <loc>http://avishek-das.github.io/utzonx2017.html</loc>
+    <lastmod>2018-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://avishek-das.github.io/customisedbrick1.html</loc>
-    <lastmod>2018-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_grasshopper_03.gif</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://avishek-das.github.io/krab.html</loc>
-    <lastmod>2018-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/02-graphs-type-01.svg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://avishek-das.github.io/clay3dp.html</loc>
-    <lastmod>2018-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_grasshopper_01.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://avishek-das.github.io/march_thesis.html</loc>
-    <lastmod>2018-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_grasshopper_02.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://avishek-das.github.io/barch-thesis.html</loc>
-    <lastmod>2018-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/logo.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_csv_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_alice_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_alice_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_alice_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_alice_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_alice_05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_alice_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_alice_07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_alice_09.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_csv_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_vis_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_photo_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_photo_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_photo_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_photo_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_photo_051299x866.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/03%20print%20analysis-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/01-toopath-types-01.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_photo_07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_photo_08.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_photo_09.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_photo_10.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -1,120 +1,141 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1515584882010">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1517076151173">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3901390358" ref="customisedbrick1:about:clay3dp:barch-thesis:krab:contact:march_thesis:index:utzonx_2017:fab-academy-2017:projects"/>
-    <file name="nomq_preview_master_a-master.css" crc="4264621769" ref="customisedbrick1:about:clay3dp:barch-thesis:krab:contact:march_thesis:index:utzonx_2017:fab-academy-2017:projects"/>
-    <file name="customisedbrick1.css" crc="3782160040" ref="customisedbrick1"/>
-    <file name="nomq_customisedbrick1.css" crc="4200722506" ref="customisedbrick1"/>
-    <file name="about.css" crc="3782160040" ref="about"/>
-    <file name="nomq_about.css" crc="4200722506" ref="about"/>
-    <file name="clay3dp.css" crc="3782160040" ref="clay3dp"/>
-    <file name="nomq_clay3dp.css" crc="4200722506" ref="clay3dp"/>
-    <file name="barch-thesis.css" crc="3782160040" ref="barch-thesis"/>
-    <file name="nomq_barch-thesis.css" crc="4200722506" ref="barch-thesis"/>
-    <file name="krab.css" crc="3782160040" ref="krab"/>
-    <file name="nomq_krab.css" crc="4200722506" ref="krab"/>
-    <file name="contact.css" crc="516207427" ref="contact"/>
-    <file name="nomq_contact.css" crc="4001477888" ref="contact"/>
-    <file name="march_thesis.css" crc="3782160040" ref="march_thesis"/>
-    <file name="nomq_march_thesis.css" crc="4200722506" ref="march_thesis"/>
-    <file name="index.css" crc="353626410" ref="index"/>
-    <file name="nomq_index.css" crc="4101075924" ref="index"/>
-    <file name="utzonx_2017.css" crc="3782160040" ref="utzonx_2017"/>
-    <file name="nomq_utzonx_2017.css" crc="4200722506" ref="utzonx_2017"/>
-    <file name="fab-academy-2017.css" crc="3782160040" ref="fab-academy-2017"/>
-    <file name="nomq_fab-academy-2017.css" crc="4200722506" ref="fab-academy-2017"/>
-    <file name="projects.css" crc="3842640394" ref="projects"/>
-    <file name="nomq_projects.css" crc="3942384674" ref="projects"/>
+    <file name="site_global.css" crc="3909356130"/>
+    <file name="master_a-master.css" crc="4157254118" ref="about:fab-academy-2017:contact:projects:index:utzonx2017"/>
+    <file name="about.css" crc="97675488" ref="about"/>
+    <file name="fab-academy-2017.css" crc="484291239" ref="fab-academy-2017"/>
+    <file name="contact.css" crc="3762567330" ref="contact"/>
+    <file name="projects.css" crc="289492923" ref="projects"/>
+    <file name="index.css" crc="4138363915" ref="index"/>
+    <file name="utzonx2017.css" crc="4253331676" ref="utzonx2017"/>
   </folder>
   <folder name="fonts">
     <file name="helveticaworld-bold.woff" crc="93119350"/>
     <file name="helveticaworld-bold.eot" crc="296605324"/>
     <file name="helveticaworld-bold.svg" crc="3883540105"/>
-    <file name="helveticaworld-italic.woff" crc="521406058"/>
-    <file name="helveticaworld-italic.eot" crc="4006501642"/>
-    <file name="helveticaworld-italic.svg" crc="4183399234"/>
+    <file name="rockwellstd-light.woff" crc="4141341558"/>
+    <file name="rockwellstd-light.eot" crc="4138055014"/>
+    <file name="rockwellstd-light.svg" crc="299879933"/>
+    <file name="rockwellstd.woff" crc="311764613"/>
+    <file name="rockwellstd.eot" crc="298108561"/>
+    <file name="rockwellstd.svg" crc="3814843668"/>
+    <file name="rockwellstd-italic.woff" crc="335680502"/>
+    <file name="rockwellstd-italic.eot" crc="3932663853"/>
+    <file name="rockwellstd-italic.svg" crc="4007232215"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:fab-academy-2017:about:contact:utzonx_2017:customisedbrick1:krab:clay3dp:march_thesis:barch-thesis"/>
-    <file name="museutils.js" crc="46400467" ref="index:projects:fab-academy-2017:about:contact:utzonx_2017:customisedbrick1:krab:clay3dp:march_thesis:barch-thesis"/>
-    <file name="whatinput.js" crc="86476730" ref="index:projects:fab-academy-2017:about:contact:utzonx_2017:customisedbrick1:krab:clay3dp:march_thesis:barch-thesis"/>
-    <file name="museconfig.js" crc="436936948" ref="index:projects:fab-academy-2017:about:contact:utzonx_2017:customisedbrick1:krab:clay3dp:march_thesis:barch-thesis"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:projects"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index:projects:fab-academy-2017:about:contact:utzonx_2017:customisedbrick1:krab:clay3dp:march_thesis:barch-thesis"/>
-    <file name="jquery.museresponsive.js" crc="52098982" ref="index:projects:fab-academy-2017:about:contact:utzonx_2017:customisedbrick1:krab:clay3dp:march_thesis:barch-thesis"/>
-    <file name="require.js" crc="85721165" ref="index:projects:fab-academy-2017:about:contact:utzonx_2017:customisedbrick1:krab:clay3dp:march_thesis:barch-thesis"/>
-    <file name="webpro.js" crc="4152390327" ref="contact"/>
-    <file name="form_check.php" crc="4286608207" ref="contact"/>
-    <file name="form_throttle.php" crc="313199896" ref="contact"/>
-    <file name="form_process.php" crc="3855659497" ref="contact"/>
-    <file name="form-u2920.php" crc="4262367830" ref="contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
+    <file name="museutils.js" crc="46400467" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
+    <file name="museconfig.js" crc="436936948" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:projects:utzonx2017"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
+    <file name="require.js" crc="85721165" ref="index:projects:fab-academy-2017:about:contact:utzonx2017"/>
   </folder>
   <folder name="images">
-    <file name="avishek_das_computational_design_utzonx_web_banner.jpg" crc="83851996" ref="index:projects">
+    <file name="avishek_das_computational_design_utzonx_web_banner.jpg" crc="4161603935" ref="index:projects">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
     </file>
-    <file name="logo.svg" crc="81474546" seo="true" ref="index:projects:fab-academy-2017:about:contact:utzonx_2017:customisedbrick1:krab:clay3dp:march_thesis:barch-thesis">
-      <caption webpage="fab-academy-2017" alt=""/>
-      <caption webpage="fab-academy-2017" alt=""/>
-      <caption webpage="fab-academy-2017" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+    <file name="avishek-logo.svg" crc="4146534107" seo="true" ref="index:projects:fab-academy-2017:about:contact:utzonx2017">
+      <caption webpage="index" alt=""/>
+      <caption webpage="utzonx2017" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="fab-academy-2017" alt=""/>
+    </file>
+    <file name="avishek logo_poster_.png" crc="486670582" ref="index"/>
+    <file name="avishek_das_prolfile_photo.jpg" crc="317714537" seo="true" ref="about">
       <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="clay3dp" alt=""/>
-      <caption webpage="clay3dp" alt=""/>
-      <caption webpage="clay3dp" alt=""/>
-      <caption webpage="march_thesis" alt=""/>
-      <caption webpage="march_thesis" alt=""/>
-      <caption webpage="march_thesis" alt=""/>
-      <caption webpage="utzonx_2017" alt=""/>
-      <caption webpage="utzonx_2017" alt=""/>
-      <caption webpage="utzonx_2017" alt=""/>
-      <caption webpage="krab" alt=""/>
-      <caption webpage="krab" alt=""/>
-      <caption webpage="krab" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="barch-thesis" alt=""/>
-      <caption webpage="barch-thesis" alt=""/>
-      <caption webpage="barch-thesis" alt=""/>
-      <caption webpage="customisedbrick1" alt=""/>
-      <caption webpage="customisedbrick1" alt=""/>
-      <caption webpage="customisedbrick1" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
     </file>
-    <file name="logo_poster_.png" crc="3909706537" ref="index"/>
-    <file name="avishek_das_computational_design_aarhus_web_banner.jpg" crc="3941969031" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="avishek_das_computational_design_utzonx2017_photo_01.jpg" crc="183577927" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
     </file>
-    <file name="avishek_das_computational_design_krab_web_banner.jpg" crc="61907763" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="avishek_das_computational_design_utzonx2017_grasshopper_03.gif" crc="3888174700" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
     </file>
-    <file name="avishek_das_computational_design_clay_3dprinter_web_banner.jpg" crc="3864801532" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="02-graphs-type-01.svg" crc="4223960305" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
     </file>
-    <file name="banner_web_march.jpg" crc="402967741" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="02 graphs type-01_poster_.png" crc="3831756392" ref="utzonx2017"/>
+    <file name="avishek_das_computational_design_utzonx2017_grasshopper_01.jpg" crc="4143714924" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
     </file>
-    <file name="banner_web_march-u1631-fr.jpg" crc="335245898" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:projects:fab-academy-2017:about:contact:utzonx_2017:customisedbrick1:krab:clay3dp:march_thesis:barch-thesis"/>
+    <file name="avishek_das_computational_design_utzonx2017_grasshopper_02.jpg" crc="320648265" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_csv_01.jpg" crc="3908608215" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_alice_01.jpg" crc="4094787547" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_alice_02.jpg" crc="394106765" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_alice_03.jpg" crc="3932473393" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_alice_04.jpg" crc="3924798095" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_alice_05.jpg" crc="241853799" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_alice_06.jpg" crc="4157795399" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_alice_07.jpg" crc="3792769664" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_alice_09.jpg" crc="379785456" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_csv_02.jpg" crc="4194870552" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_vis_01.jpg" crc="529815721" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_photo_02.jpg" crc="479531121" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_photo_03.jpg" crc="454373803" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_photo_06.jpg" crc="4060090479" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_photo_04.jpg" crc="300300633" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_photo_051299x866.jpg" crc="501457458" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="03 print analysis-01.jpg" crc="3911444244" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="01-toopath-types-01.svg" crc="309128959" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="01 toopath types-01_poster_.png" crc="3912336770" ref="utzonx2017"/>
+    <file name="avishek_das_computational_design_utzonx2017_photo_07.jpg" crc="24329068" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_photo_08.jpg" crc="3779800084" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_photo_09.jpg" crc="4033028821" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_utzonx2017_photo_10.jpg" crc="3833695443" seo="true" ref="utzonx2017">
+      <caption webpage="utzonx2017" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="74164473" seo="true" mt="1515525266829" redirect="true"/>
-  <file name="projects.html" crc="3796607793" seo="true" mt="1515525266393" redirect="true"/>
-  <file name="fab-academy-2017.html" crc="452371879" seo="true" mt="1515506940311" redirect="true"/>
-  <file name="about.html" crc="3953942491" seo="true" mt="1515506940311" redirect="true"/>
-  <file name="contact.html" crc="4283418458" seo="true" mt="1515583726949" redirect="true"/>
-  <file name="utzonx_2017.html" crc="4109412679" seo="true" mt="1515525345149" redirect="true"/>
-  <file name="customisedbrick1.html" crc="4021969808" seo="true" mt="1515528273165" redirect="true"/>
-  <file name="krab.html" crc="4048359214" seo="true" mt="1515528276841" redirect="true"/>
-  <file name="clay3dp.html" crc="82463525" seo="true" mt="1515528281704" redirect="true"/>
-  <file name="march_thesis.html" crc="187166800" seo="true" mt="1515528289637" redirect="true"/>
-  <file name="barch-thesis.html" crc="3999323430" seo="true" mt="1515528294054" redirect="true"/>
+  <file name="index.html" crc="255262654" seo="true" mt="1517075744134" redirect="true"/>
+  <file name="projects.html" crc="160549496" seo="true" mt="1517075744134" redirect="true"/>
+  <file name="fab-academy-2017.html" crc="4050864632" seo="true" mt="1517075744134" redirect="true"/>
+  <file name="about.html" crc="435621475" seo="true" mt="1517075744134" redirect="true"/>
+  <file name="contact.html" crc="3911552673" seo="true" mt="1517075744134" redirect="true"/>
+  <file name="utzonx2017.html" crc="9710634" seo="true" mt="1517075744134" redirect="true"/>
 </manifest>
