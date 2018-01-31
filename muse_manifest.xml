@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1517082594209">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1517421042802">
   <folder name="css">
-    <file name="site_global.css" crc="3909356130"/>
-    <file name="master_a-master.css" crc="3900101699" ref="about:contact:projects:index:utzonx2017:customisedbrick"/>
-    <file name="about.css" crc="4465097" ref="about"/>
-    <file name="contact.css" crc="4243838571" ref="contact"/>
-    <file name="projects.css" crc="456653235" ref="projects"/>
-    <file name="index.css" crc="448211095" ref="index"/>
-    <file name="utzonx2017.css" crc="529718114" ref="utzonx2017"/>
-    <file name="customisedbrick.css" crc="313094616" ref="customisedbrick"/>
+    <file name="site_global.css" crc="4210614014"/>
+    <file name="master_a-master.css" crc="343596096" ref="contact:projects:customisedbrick:about:index:utzonx2017"/>
+    <file name="contact.css" crc="13634589" ref="contact"/>
+    <file name="projects.css" crc="4060206665" ref="projects"/>
+    <file name="customisedbrick.css" crc="3865246681" ref="customisedbrick"/>
+    <file name="about.css" crc="4230446007" ref="about"/>
+    <file name="index.css" crc="4107443660" ref="index"/>
+    <file name="utzonx2017.css" crc="3908282743" ref="utzonx2017"/>
   </folder>
   <folder name="fonts">
     <file name="helveticaworld-bold.woff" crc="93119350"/>
@@ -28,24 +28,27 @@
     <file name="museutils.js" crc="46400467" ref="index:projects:about:contact:utzonx2017:customisedbrick"/>
     <file name="whatinput.js" crc="86476730" ref="index:projects:about:contact:utzonx2017:customisedbrick"/>
     <file name="museconfig.js" crc="436936948" ref="index:projects:about:contact:utzonx2017:customisedbrick"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:projects:utzonx2017"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:projects:utzonx2017:customisedbrick"/>
     <file name="jquery.watch.js" crc="4178585335" ref="index:projects:about:contact:utzonx2017:customisedbrick"/>
     <file name="require.js" crc="85721165" ref="index:projects:about:contact:utzonx2017:customisedbrick"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="384964368" ref="index"/>
     <file name="avishek_das_computational_design_utzonx_web_banner.jpg" crc="4161603935" ref="index:projects">
       <caption webpage="index" alt=""/>
     </file>
     <file name="avishek-logo.svg" crc="4146534107" seo="true" ref="index:projects:about:contact:utzonx2017:customisedbrick">
-      <caption webpage="fab-academy-2017" alt=""/>
-      <caption webpage="customisedbrick" alt=""/>
-      <caption webpage="projects" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="customisedbrick" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="utzonx2017" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="avishek logo_poster_.png" crc="486670582" ref="index"/>
+    <file name="avishek_das_computational_design_aarhus_web_banner.jpg" crc="428610965" ref="index:projects">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="avishek_das_prolfile_photo.jpg" crc="317714537" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -132,11 +135,72 @@
     <file name="avishek_das_computational_design_utzonx2017_photo_10.jpg" crc="3833695443" seo="true" ref="utzonx2017">
       <caption webpage="utzonx2017" alt=""/>
     </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_01.jpg" crc="4222163494" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="base surface-01.png" crc="270915133" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_diagram_03.jpg" crc="455659052" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_diagram_05.jpg" crc="447966423" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_diagram_02.svg" crc="262921572" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_diagram_02_poster_.png" crc="50365000" ref="customisedbrick"/>
+    <file name="avishek_das_computational_design_swsaarhus_diagram_04.jpg" crc="171791958" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_diagram_06-01.png" crc="195810572" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_diagram_07.jpg" crc="127904394" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_03.jpg" crc="3864994661" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_041298x862.jpg" crc="522935537" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_051298x862.jpg" crc="442448367" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_061298x862.jpg" crc="4180333713" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_071298x862.jpg" crc="346584456" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_08.jpg" crc="309287213" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_101298x862.jpg" crc="355560916" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_09.jpg" crc="470391208" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_12.jpg" crc="4263424654" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_11.jpg" crc="462074707" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_14.jpg" crc="244330125" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
+    <file name="avishek_das_computational_design_swsaarhus_photo_131298x862.jpg" crc="4012596037" seo="true" ref="customisedbrick">
+      <caption webpage="customisedbrick" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4141978142" seo="true" mt="1517082562851" redirect="true"/>
-  <file name="projects.html" crc="364958009" seo="true" mt="1517082562851" redirect="true"/>
-  <file name="about.html" crc="3960484401" seo="true" mt="1517082562851" redirect="true"/>
-  <file name="contact.html" crc="3983108979" seo="true" mt="1517082562851" redirect="true"/>
-  <file name="utzonx2017.html" crc="3787293125" seo="true" mt="1517082562851" redirect="true"/>
-  <file name="customisedbrick.html" crc="3888318558" seo="true" mt="1517082562851" redirect="true"/>
+  <file name="index.html" crc="86248209" seo="true" mt="1517409148322" redirect="true"/>
+  <file name="projects.html" crc="173811865" seo="true" mt="1517420702177" redirect="true"/>
+  <file name="about.html" crc="385772386" seo="true" mt="1517158514585" redirect="true"/>
+  <file name="contact.html" crc="428523078" seo="true" mt="1517158514585" redirect="true"/>
+  <file name="utzonx2017.html" crc="229606197" seo="true" mt="1517158514585" redirect="true"/>
+  <file name="customisedbrick.html" crc="3811153510" seo="true" mt="1517420987361" redirect="true"/>
 </manifest>
