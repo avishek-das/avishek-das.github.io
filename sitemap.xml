@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://avishek-das.github.io/index.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://avishek-das.github.io/projects.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <lastmod>2018-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,7 +11,7 @@
   </url>
   <url>
     <loc>http://avishek-das.github.io/about.html</loc>
-    <lastmod>2018-01-28</lastmod>
+    <lastmod>2018-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -33,6 +24,15 @@
   <url>
     <loc>http://avishek-das.github.io/contact.html</loc>
     <lastmod>2018-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://avishek-das.github.io/projects.html</loc>
+    <lastmod>2018-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -191,5 +191,77 @@
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_swsaarhus_photo_131298x862.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://avishek-das.github.io/krab.html</loc>
+    <lastmod>2018-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_krab_diagram_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/finalproject_fabacademy2017_avishek%20das_krab_assembly_031298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/finalproject_fabacademy2017_avishek%20das_krab_assembly_041298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/finalproject_fabacademy2017_avishek%20das_krab_assembly_05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/finalproject_fabacademy2017_avishek%20das_krab_assembly_061298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/finalproject_fabacademy2017_avishek%20das_krab_assembly_071298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/finalproject_fabacademy2017_avishek%20das_krab_assembly_081298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/finalproject_fabacademy2017_avishek%20das_krab_assembly_101298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/finalproject_fabacademy2017_avishek%20das_krab_assembly_111298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/finalproject_fabacademy2017_avishek%20das_krab_assembly_131298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/finalproject_fabacademy2017_avishek%20das_krab_assembly_141298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/finalproject_fabacademy2017_avishek%20das_krab_assembly_151298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/w06_fabacademy2017_avishek%20das_krab%20board_051298x866.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/w06_fabacademy2017_avishek%20das_krab%20board_021298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/w06_fabacademy2017_avishek%20das_krab%20board_031298x865.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/w16_fabacademy2017_avishek%20das_interface_application_animation_02.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/w16_fabacademy2017_avishek%20das_interface_application_animation_01.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://avishek-das.github.io/assets/presentation.mp4</loc>
+    <lastmod>2017-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://avishek-das.github.io/assets/presentation2.mp4</loc>
+    <lastmod>2017-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
