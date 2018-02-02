@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1517579529183">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1517580586869">
   <folder name="css">
-    <file name="site_global.css" crc="3909356130"/>
-    <file name="master_a-master.css" crc="164413080" ref="projects:index:customisedbrick:about:contact:utzonx2017:krab"/>
-    <file name="projects.css" crc="124770333" ref="projects"/>
-    <file name="index.css" crc="86254675" ref="index"/>
-    <file name="customisedbrick.css" crc="117771572" ref="customisedbrick"/>
-    <file name="about.css" crc="4041928412" ref="about"/>
-    <file name="contact.css" crc="119910338" ref="contact"/>
-    <file name="utzonx2017.css" crc="4017463951" ref="utzonx2017"/>
-    <file name="krab.css" crc="3843282585" ref="krab"/>
+    <file name="site_global.css" crc="4210614014"/>
+    <file name="master_a-master.css" crc="3900101699" ref="utzonx2017:customisedbrick:about:krab:contact:projects:index"/>
+    <file name="utzonx2017.css" crc="529718114" ref="utzonx2017"/>
+    <file name="customisedbrick.css" crc="4088295526" ref="customisedbrick"/>
+    <file name="about.css" crc="261185428" ref="about"/>
+    <file name="krab.css" crc="3846960033" ref="krab"/>
+    <file name="contact.css" crc="4243838571" ref="contact"/>
+    <file name="projects.css" crc="385087856" ref="projects"/>
+    <file name="index.css" crc="422080764" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="helveticaworld-bold.woff" crc="93119350"/>
@@ -43,13 +43,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="avishek-logo.svg" crc="4146534107" seo="true" ref="index:projects:about:contact:utzonx2017:customisedbrick:krab">
-      <caption webpage="krab" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="projects" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="customisedbrick" alt=""/>
       <caption webpage="utzonx2017" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="krab" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="customisedbrick" alt=""/>
     </file>
     <file name="avishek logo_poster_.png" crc="486670582" ref="index"/>
     <file name="avishek_das_computational_design_aarhus_web_banner.jpg" crc="428610965" ref="index:projects">
@@ -260,11 +260,11 @@
       <caption webpage="krab" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4022271261" seo="true" mt="1517424112493" redirect="true"/>
-  <file name="projects.html" crc="191437543" seo="true" mt="1517424156082" redirect="true"/>
-  <file name="about.html" crc="4264928637" seo="true" mt="1517495709312" redirect="true"/>
-  <file name="contact.html" crc="430354933" seo="true" mt="1517158514585" redirect="true"/>
-  <file name="utzonx2017.html" crc="3989600216" seo="true" mt="1517158514585" redirect="true"/>
-  <file name="customisedbrick.html" crc="205966692" seo="true" mt="1517421677425" redirect="true"/>
-  <file name="krab.html" crc="3997679245" seo="true" mt="1517579451486" redirect="true"/>
+  <file name="index.html" crc="3894657869" seo="true" mt="1517580216727" redirect="true"/>
+  <file name="projects.html" crc="171287289" seo="true" mt="1517424156082" redirect="true"/>
+  <file name="about.html" crc="468091100" seo="true" mt="1517495709312" redirect="true"/>
+  <file name="contact.html" crc="411809302" seo="true" mt="1517158514585" redirect="true"/>
+  <file name="utzonx2017.html" crc="4161433158" seo="true" mt="1517158514585" redirect="true"/>
+  <file name="customisedbrick.html" crc="399626669" seo="true" mt="1517421677425" redirect="true"/>
+  <file name="krab.html" crc="4037994388" seo="true" mt="1517579451486" redirect="true"/>
 </manifest>
