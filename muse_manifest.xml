@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1528698723416">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="avishek-das.github.io" resolutions="1x" timestamp="1528700061675">
   <folder name="css">
     <file name="site_global.css" crc="246949291"/>
     <file name="master_a-master.css" crc="4011355459" ref="about:utzonx2017:krab:clay3dp:customisedbrick:contact:projects:alt_home:curve_opt:index"/>
-    <file name="about.css" crc="144186429" ref="about"/>
-    <file name="utzonx2017.css" crc="321167478" ref="utzonx2017"/>
-    <file name="krab.css" crc="4249260294" ref="krab"/>
-    <file name="clay3dp.css" crc="438295738" ref="clay3dp"/>
-    <file name="customisedbrick.css" crc="367014951" ref="customisedbrick"/>
-    <file name="contact.css" crc="181497843" ref="contact"/>
-    <file name="projects.css" crc="267696777" ref="projects"/>
-    <file name="alt_home.css" crc="4165379977" ref="alt_home"/>
-    <file name="curve_opt.css" crc="4042894014" ref="curve_opt"/>
-    <file name="index.css" crc="4215447210" ref="index"/>
+    <file name="about.css" crc="186503118" ref="about"/>
+    <file name="utzonx2017.css" crc="4060477751" ref="utzonx2017"/>
+    <file name="krab.css" crc="355052287" ref="krab"/>
+    <file name="clay3dp.css" crc="4020862381" ref="clay3dp"/>
+    <file name="customisedbrick.css" crc="374384932" ref="customisedbrick"/>
+    <file name="contact.css" crc="362260734" ref="contact"/>
+    <file name="projects.css" crc="198800277" ref="projects"/>
+    <file name="alt_home.css" crc="3999258013" ref="alt_home"/>
+    <file name="curve_opt.css" crc="4038478410" ref="curve_opt"/>
+    <file name="index.css" crc="4249088269" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="helveticaworld-bold.woff" crc="233234634"/>
@@ -45,50 +45,50 @@
     <file name="favicon.ico" crc="384964368" ref="index"/>
     <file name="avishek_das_computational_design_utzonx_web_block.jpg" crc="4140788071" ref="index:projects:alt_home">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
       <caption webpage="alt_home" alt=""/>
+      <caption webpage="projects" alt=""/>
     </file>
     <file name="avishek_das_computational_design_utzonx_web_block-u3530-r-fr.png" crc="3899712595" ref="index:projects:alt_home"/>
     <file name="avishek_das_computational_design_clay3dp_web_block.jpg" crc="210302859" ref="index:projects:alt_home">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
       <caption webpage="alt_home" alt=""/>
+      <caption webpage="projects" alt=""/>
     </file>
     <file name="avishek_das_computational_design_clay3dp_web_block-u3531-r-fr.png" crc="4090065421" ref="index:projects:alt_home"/>
     <file name="avishek_das_computational_design_swsaarhus_web_block.jpg" crc="224809657" ref="index:projects:alt_home">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
       <caption webpage="alt_home" alt=""/>
+      <caption webpage="projects" alt=""/>
     </file>
     <file name="avishek_das_computational_design_swsaarhus_web_block-u3532-r-fr.png" crc="284479661" ref="index:projects:alt_home"/>
     <file name="avishek_das_computational_design_curvopt_web_block.jpg" crc="190407276" ref="index:projects:alt_home">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
       <caption webpage="alt_home" alt=""/>
+      <caption webpage="projects" alt=""/>
     </file>
     <file name="avishek_das_computational_design_curvopt_web_block-u3533-r-fr.png" crc="63842174" ref="index:projects:alt_home"/>
     <file name="avishek_das_computational_design_krab_web_block.jpg" crc="4251345217" ref="index:projects:alt_home">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
       <caption webpage="alt_home" alt=""/>
+      <caption webpage="projects" alt=""/>
     </file>
     <file name="avishek_das_computational_design_krab_web_block-u3534-r-fr.png" crc="250765352" ref="index:projects:alt_home"/>
     <file name="avishek_das_computational_design_catenary_web_block.jpg" crc="429705606" ref="index:projects:alt_home">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
       <caption webpage="alt_home" alt=""/>
+      <caption webpage="projects" alt=""/>
     </file>
     <file name="avishek_das_computational_design_catenary_web_block-u3535-r-fr.png" crc="134335380" ref="index:projects:alt_home"/>
     <file name="avishek-logo.svg" crc="4146534107" seo="true" ref="index:projects:about:contact:utzonx2017:customisedbrick:krab:clay3dp:alt_home:curve_opt">
-      <caption webpage="projects" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="curve_opt" alt=""/>
       <caption webpage="clay3dp" alt=""/>
+      <caption webpage="alt_home" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="utzonx2017" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="curve_opt" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="customisedbrick" alt=""/>
-      <caption webpage="alt_home" alt=""/>
       <caption webpage="krab" alt=""/>
     </file>
     <file name="avishek logo_poster_.png" crc="486670582" ref="index"/>
@@ -335,14 +335,14 @@
       <caption webpage="curve_opt" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="316376905" seo="true" mt="1528698563291" redirect="true"/>
-  <file name="projects.html" crc="4189642478" seo="true" mt="1528698633055" redirect="true"/>
-  <file name="about.html" crc="218731827" seo="true" mt="1528698562324" redirect="true"/>
-  <file name="contact.html" crc="3818049077" seo="true" mt="1528698562669" redirect="true"/>
-  <file name="utzonx2017.html" crc="3939861386" seo="true" mt="1528698562670" redirect="true"/>
-  <file name="customisedbrick.html" crc="3943839866" seo="true" mt="1528698562672" redirect="true"/>
-  <file name="krab.html" crc="4247159360" seo="true" mt="1528698562673" redirect="true"/>
-  <file name="clay3dp.html" crc="232130287" seo="true" mt="1528698562674" redirect="true"/>
-  <file name="alt_home.html" crc="109166213" seo="true" mt="1528698563292" redirect="true"/>
-  <file name="curve_opt.html" crc="480433939" seo="true" mt="1528698562335" redirect="true"/>
+  <file name="index.html" crc="3995570703" seo="true" mt="1528700040062" redirect="true"/>
+  <file name="projects.html" crc="281076988" seo="true" mt="1528700040062" redirect="true"/>
+  <file name="about.html" crc="4032749858" seo="true" mt="1528700040062" redirect="true"/>
+  <file name="contact.html" crc="320149400" seo="true" mt="1528700040062" redirect="true"/>
+  <file name="utzonx2017.html" crc="415611813" seo="true" mt="1528700040062" redirect="true"/>
+  <file name="customisedbrick.html" crc="3851643691" seo="true" mt="1528700040062" redirect="true"/>
+  <file name="krab.html" crc="3810686256" seo="true" mt="1528700040062" redirect="true"/>
+  <file name="clay3dp.html" crc="4283429841" seo="true" mt="1528700040062" redirect="true"/>
+  <file name="alt_home.html" crc="4110030186" seo="true" mt="1528700040062" redirect="true"/>
+  <file name="curve_opt.html" crc="167410929" seo="true" mt="1528700040062" redirect="true"/>
 </manifest>
