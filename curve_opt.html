@@ -18,8 +18,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Curvature Optimization 2D</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=246949291"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4011355459"/>
-  <link rel="stylesheet" type="text/css" href="css/curve_opt.css?crc=4066800640" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=269404835"/>
+  <link rel="stylesheet" type="text/css" href="css/curve_opt.css?crc=281490631" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -61,18 +61,58 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix colelem" id="u3311-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
      <p>2018 - Ongoing</p>
     </div>
-    <div class="clearfix colelem" id="u3313-3" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content -->
-     <p>&nbsp;</p>
+    <div class="clearfix colelem" id="u3313-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content -->
+     <p>&nbsp;Discretization of freeform curves into arc segments eases up the fabrication process in terms of cost, time and complexity. The following work is a starting of a research that aims at curvature optimization in curves and in surfaces and discretization into finite elements.</p>
     </div>
     <div class="clearfix colelem" id="u3315-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
-     <p>Design of the Printer:</p>
+     <p>Experimental Setup:</p>
     </div>
-    <div class="clearfix colelem" id="u3314-3" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content -->
+    <div class="clearfix colelem" id="u3314-5" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content -->
+     <p>The setup takes a free form curve and number of sample as input to process. Initially it samples the curve at certain parameter and check for the radius. If radius of curvature at that point is R ,then based on curvature&nbsp; the curve is split at consecutive domain at value obtained from the following equation:</p>
      <p>&nbsp;</p>
+    </div>
+    <div class="clearfix colelem" id="u3745"><!-- group -->
+     <div class="clearfix grpelem" id="u3742-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
+      <p>P&nbsp; =</p>
+     </div>
+     <div class="clip_frame grpelem" id="u3735" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter"><!-- svg -->
+      <img class="svg" id="u3731" src="images/curvature-optimization-formula.svg?crc=271650024" alt="" data-mu-svgfallback="images/curvature%20optimization%20formula_poster_.png?crc=4155162814" data-heightwidthratio="0.43478260869565216" data-image-width="138" data-image-height="60"/>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u3748-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content -->
+     <p>Further the curve is split at those points. The more the radius of curvature the less the interval of the splitting of the curve to adjust the span. At lower radius of curvature the splitting become more dense.</p>
+    </div>
+    <div class="clip_frame colelem" id="u3755" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedLeft"><!-- svg -->
+     <img class="svg" id="u3751" src="images/location_edit-copy-01.svg?crc=337749582" alt="" data-mu-svgfallback="images/location_edit%20copy-01_poster_.png?crc=4204565476" data-heightwidthratio="1.4149797570850202" data-image-width="494" data-image-height="699"/>
+    </div>
+    <div class="clip_frame colelem" id="u3791" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedLeft"><!-- svg -->
+     <img class="svg" id="u3787" src="images/optimized-copy-01.svg?crc=96840602" alt="" data-mu-svgfallback="images/optimized%20copy-01_poster_.png?crc=3983196957" data-heightwidthratio="0.7069672131147541" data-image-width="488" data-image-height="345"/>
+    </div>
+    <div class="clearfix colelem" id="u3836-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
+     <p>Segmented Arc approximation of curve</p>
+    </div>
+    <div class="clearfix colelem" id="u3807-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
+     <p>Implementation in Grasshopper:</p>
+    </div>
+    <div class="clearfix colelem" id="u3810-7" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- content -->
+     <p>The process has been implemented through GHPython Code in Node. It has used the basic ghpython.components library to implement. The same logic was establish using the native GH components to test the functionality but the python one runs faster due to implementation of parallel computing.</p>
+     <p>&nbsp;</p>
+     <p>In 10 samples in a 42m span of curves the variation is found to be 51mm at maximum in the test curve.</p>
+    </div>
+    <div class="clip_frame colelem" id="u3813" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedLeft"><!-- image -->
+     <img class="block" id="u3813_img" src="images/avishek_das_computational_design_curveopt_rghpython_01.jpg?crc=4023956458" alt="" data-heightwidthratio="0.5283236994219653" data-image-width="865" data-image-height="457"/>
+    </div>
+    <div class="clip_frame colelem" id="u3823" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedLeft"><!-- image -->
+     <img class="block" id="u3823_img" src="images/avishek_das_computational_design_curveopt_rghpython_02.jpg?crc=157155318" alt="" data-heightwidthratio="0.5283236994219653" data-image-width="865" data-image-height="457"/>
+    </div>
+    <div class="clearfix colelem" id="u3833-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
+     <p>GHPython implementation | Rhino- Grasshopper</p>
     </div>
    </div>
    <a class="nonblock nontext anim_swing rounded-corners clearfix" id="u3697-4" href="curve_opt.html#top"><!-- content --><p id="u3697-2">top</p></a>
-   <div class="verticalspacer" data-offset-top="1098" data-content-above-spacer="1098" data-content-below-spacer="77" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="3470" data-content-above-spacer="3470" data-content-below-spacer="77" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <a class="nonblock nontext clip_frame grpelem" id="u3710" href="https://www.linkedin.com/in/a-vi-shek/" target="_blank" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedLeft"><!-- svg --><img class="svg" id="u3706" src="images/linkedin-sign.svg?crc=177998605" alt="" title="LinkedIN" data-mu-svgfallback="images/linkedin-sign_poster_.png?crc=673576" data-heightwidthratio="1" data-image-width="17" data-image-height="17"/></a>
+   <a class="nonblock nontext clip_frame grpelem" id="u3721" href="https://github.com/avishek-das" target="_blank" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedLeft"><!-- svg --><img class="svg" id="u3717" src="images/github-logo.svg?crc=4173392047" alt="" title="GitHub Repository" data-mu-svgfallback="images/github-logo_poster_.png?crc=4094825210" data-heightwidthratio="1" data-image-width="17" data-image-height="17"/></a>
    <div class="clearfix grpelem" id="u224-4" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content -->
     <p>avishek das | 2018</p>
    </div>
