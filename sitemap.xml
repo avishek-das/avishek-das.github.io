@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://avishek-das.github.io/index.html</loc>
-    <lastmod>2018-02-04</lastmod>
+    <lastmod>2018-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://avishek-das.github.io/contact.html</loc>
-    <lastmod>2018-02-02</lastmod>
+    <lastmod>2018-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>http://avishek-das.github.io/utzonx2017.html</loc>
-    <lastmod>2018-02-02</lastmod>
+    <lastmod>2018-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -106,36 +106,15 @@
     </image:image>
   </url>
   <url>
-    <loc>http://avishek-das.github.io/projects.html</loc>
-    <lastmod>2018-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://avishek-das.github.io/about.html</loc>
-    <lastmod>2018-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/avishek_das_prolfile_photo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://avishek-das.github.io/customisedbrick.html</loc>
-    <lastmod>2018-02-02</lastmod>
+    <lastmod>2018-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/base%20surface-01.png</image:loc>
+      <image:loc>http://avishek-das.github.io/images/base%20surface-01.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_swsaarhus_diagram_03.jpg</image:loc>
@@ -144,13 +123,13 @@
       <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_swsaarhus_diagram_05.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_swsaarhus_diagram_02.svg</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_swsaarhus_diagram_.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_swsaarhus_diagram_04.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_swsaarhus_diagram_06-01.png</image:loc>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_swsaarhus_diagram_06.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_swsaarhus_diagram_07.jpg</image:loc>
@@ -193,8 +172,29 @@
     </image:image>
   </url>
   <url>
+    <loc>http://avishek-das.github.io/projects.html</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://avishek-das.github.io/about.html</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_prolfile_photo.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://avishek-das.github.io/krab.html</loc>
-    <lastmod>2018-02-02</lastmod>
+    <lastmod>2018-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -254,7 +254,7 @@
   </url>
   <url>
     <loc>http://avishek-das.github.io/clay3dp.html</loc>
-    <lastmod>2018-02-06</lastmod>
+    <lastmod>2018-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -298,6 +298,24 @@
     </image:image>
   </url>
   <url>
+    <loc>http://avishek-das.github.io/alt_home.html</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://avishek-das.github.io/curve_opt.html</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://avishek-das.github.io/assets/presentation.mp4</loc>
     <lastmod>2017-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -306,6 +324,12 @@
   <url>
     <loc>http://avishek-das.github.io/assets/presentation2.mp4</loc>
     <lastmod>2017-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://avishek-das.github.io/assets/ame---spider-web.mulib</loc>
+    <lastmod>2017-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
