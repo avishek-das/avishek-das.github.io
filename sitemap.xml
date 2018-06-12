@@ -2,22 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://avishek-das.github.io/index.html</loc>
-    <lastmod>2018-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://avishek-das.github.io/contact.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -37,6 +22,12 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_grasshopper_03.gif</image:loc>
@@ -116,12 +107,6 @@
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_utzonx2017_photo_10.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://avishek-das.github.io/customisedbrick.html</loc>
@@ -130,6 +115,12 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/base%20surface-01.jpg</image:loc>
@@ -188,16 +179,40 @@
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_swsaarhus_photo_131298x862.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://avishek-das.github.io/curve_opt.html</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/curvature-optimization-formula.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/location_edit-copy-01.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/optimized-copy-01.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_curveopt_rghpython_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_curveopt_rghpython_02.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://avishek-das.github.io/projects.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -219,7 +234,52 @@
       <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek_das_prolfile_photo.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://avishek-das.github.io/contact.html</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://avishek-das.github.io/alt_home.html</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://avishek-das.github.io/caternary.html</loc>
+    <lastmod>2018-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
@@ -235,6 +295,12 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_krab_diagram_01.jpg</image:loc>
@@ -287,12 +353,6 @@
     <image:image>
       <image:loc>http://avishek-das.github.io/images/w16_fabacademy2017_avishek%20das_interface_application_animation_01.gif</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://avishek-das.github.io/clay3dp.html</loc>
@@ -301,6 +361,12 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_clay3dp_photo_01.jpg</image:loc>
@@ -337,57 +403,6 @@
     </image:image>
     <image:image>
       <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_clay3dp_photo_07.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://avishek-das.github.io/alt_home.html</loc>
-    <lastmod>2018-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://avishek-das.github.io/curve_opt.html</loc>
-    <lastmod>2018-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/avishek-logo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/linkedin-sign.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/github-logo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/curvature-optimization-formula.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/location_edit-copy-01.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/optimized-copy-01.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_curveopt_rghpython_01.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://avishek-das.github.io/images/avishek_das_computational_design_curveopt_rghpython_02.jpg</image:loc>
     </image:image>
   </url>
   <url>
